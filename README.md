@@ -9,13 +9,13 @@ Given a mxn grid and points of the grid that compose a staircase shape, output t
 
 Example:
 
------- 1
-|    |
------------- 2
-|    |     |
------------------- 3
-|    |     |     |
-------------------
+------ 1  
+|    |    
+------------ 2    
+|    |     |     
+------------------ 3     
+|    |     |     |      
+------------------        
 
 For this problem the solution would be  2, there's the possibility to fill the grid with one 2x2 square or with 1x1 squares.
 
